@@ -18,7 +18,7 @@
 <br/>
 
 ### 🚩 DREAM 🚩<br/>
-### 인공지능이 대체할 수 없는 사람이 되자
+### Artificial Intelligence Developers
 
 <br/>
 <br/>
