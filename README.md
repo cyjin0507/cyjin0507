@@ -12,7 +12,6 @@
 
 ### ☁︎ SNS ☁︎ <br/>
 <a href="https://www.instagram.com/cyjin0507?igsh=ZjRwM2NzbGRlZmFk"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=이미지 이름&logoColor=black"></a>
-<a href="https://velog.io/@cyjin0507/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=이미지 이름&logoColor=black"></a>
 
 <br/>
 <br/>
